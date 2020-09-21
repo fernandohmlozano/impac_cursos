@@ -1,0 +1,37 @@
+body {
+    background: #e4e3e3;
+}
+td.det_um{
+    width:80%;
+    vertical-align:top;
+    border-radius: 15px;
+    padding-right: 20px;
+    text-align: justify;
+}
+td.det_dois{
+    text-align: center;
+    vertical-align:top;
+    background-color: #FFBD4A;
+    border-radius: 15px;
+}
+img.det_head {
+    border-radius: 15px;
+    width: 100%;
+}
+img.det_data{
+    vertical-align: middle;
+}
+p.det_inscricao{
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #80cf87;
+    font-size: 30px;
+    background-color: #80cf87	;
+    color: white;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;    
+}
+h1{
+    color:#FF5C5C;
+}
