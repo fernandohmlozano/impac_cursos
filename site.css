@@ -3,9 +3,7 @@ body {
     height: 100%;
     margin: 0 auto;
 }
-ul {
-    padding: 8px!important;
-}
+
 .menu-principal {
     background-color: #e4e3e3;
     width: 100%;
@@ -109,7 +107,7 @@ td.det_dois{
 }
 img.det_head {
     border-radius: 15px;
-    width: 980px;
+    width: 100%;
 }
 img.det_data{
     vertical-align: middle;
